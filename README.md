@@ -62,7 +62,7 @@ flowchart LR
 - ### **Q**
 - ### **R**
 - ### **S**
-- [Sarleymwaka](https://github.com/Sarleymwaka)
+[Sarleymwaka](https://github.com/Sarleymwaka)
 - ### **T**
 - ### **U**
 - ### **V**
