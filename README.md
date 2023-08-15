@@ -63,6 +63,8 @@ flowchart LR
 - ### **R**
 - ### **S**
 [Sarleymwaka](https://github.com/Sarleymwaka)
+
+[Sangra Kowero](https://github.com/elsangra)
 - ### **T**
 - ### **U**
 - ### **V**
